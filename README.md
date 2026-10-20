@@ -73,4 +73,4 @@ industrial-ai-copilot/
 - Real deployment requires representative data, domain validation, monitoring, security review and human oversight.
 
 ## Author
-Replace with your name and GitHub profile. Describe only work you personally completed and report only results you have verified.
+Ajinkya Adsul
